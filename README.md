@@ -1,4 +1,4 @@
 # jenkins-installation
 # apache - installation
-# nginx installation
+# nginx -installation
 
